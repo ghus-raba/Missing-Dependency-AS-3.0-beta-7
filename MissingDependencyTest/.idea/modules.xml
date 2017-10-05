@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../missingdependencymodule/MissingDependency-missingdependencymodule.iml" filepath="$PROJECT_DIR$/../missingdependencymodule/MissingDependency-missingdependencymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MissingDependencyTest.iml" filepath="$PROJECT_DIR$/MissingDependencyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\fnagy\Projects\MissingDependency\MissingDependencyTest\missingdependencymodule\missingdependencymodule.iml" filepath="C:\Users\fnagy\Projects\MissingDependency\MissingDependencyTest\missingdependencymodule\missingdependencymodule.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+include ':app', ':missingdependencymodule'
+
+project(':missingdependencymodule').projectDir = new File('..', 'missingdependencymodule')
